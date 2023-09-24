@@ -7,7 +7,9 @@
     "jsx": "react",
     "allowJs": true,
     "moduleResolution": "node",
-    // esModulInterop allows imports
+    // For absolute import
+    "baseUrl": ".",
+    // esModuleInterop allows imports
     "esModuleInterop": true,
     // allows default imports
     "allowSyntheticDefaultImports": true,
