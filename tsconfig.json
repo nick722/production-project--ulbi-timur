@@ -8,7 +8,7 @@
     "allowJs": true,
     "moduleResolution": "node",
     // For absolute import
-    "baseUrl": ".",
+//    "baseUrl": ".",
     // esModuleInterop allows imports
     "esModuleInterop": true,
     // allows default imports
